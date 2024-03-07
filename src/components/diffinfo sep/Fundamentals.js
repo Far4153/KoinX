@@ -1,9 +1,9 @@
-import React, { useState } from 'react'
+// import React, { useState } from 'react'
 import { FaInfoCircle } from "react-icons/fa";
 
 function Fundamentals() {
 
-    const [Price, setPrice] = useState("1000");
+    // const [Price, setPrice] = useState("1000");
 
     return (
 

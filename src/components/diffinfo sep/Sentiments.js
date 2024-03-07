@@ -3,7 +3,7 @@ import { FaCircleInfo } from "react-icons/fa6";
 import analyst from "../../assets/analyst.png"
 import book from "../../assets/book.png"
 import growth from "../../assets/growth.png"
-import rating from "../../assets/rating.png"
+// import rating from "../../assets/rating.png"
 
 function Sentiments() {
   return (

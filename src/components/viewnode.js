@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from "react";
-import div from "../assets/div.png"
+// import div from "../assets/div.png"
 import TradingViewWidget from "./TradingViewWidget";
 import axios from 'axios'
 import { MdArrowDropUp } from "react-icons/md";
-import { Ms } from "react-flags-select";
+// import { Ms } from "react-flags-select";
 
 function Viewnode() {
 
